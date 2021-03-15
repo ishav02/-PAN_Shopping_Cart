@@ -1,0 +1,13 @@
+
+This is simple shopping cart using Python, Flask, MySQL. This shopping cart is very simple and it does not have checkout option, payment option. 
+This is about to display products in an online shopping portal, add item to cart, remove item from cart and remove all items from cart at once or empty cart.
+
+Prerequisites
+Python 3.7.4 – 3.9.1, MySQL 8.0.17 – 8.0.22, Flask 1.1.1 – 1.1.2
+
+Installation
+
+1. copy all the folders with files
+2. Run the application : project root directory from command line tool and execute the command python main.py or simply main.py, your server will start on default port 5000.
+3. Hit URL http://localhost:5000/ in the browser, you will see below output on the browser:
+
